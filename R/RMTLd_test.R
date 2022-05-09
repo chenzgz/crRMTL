@@ -24,7 +24,6 @@
 #' calculation.
 #' The default is the minimum of the largest follow-up time of two groups.
 #'
-#' @return an object of class RMTLd_test.
 #' @return \item{Note}{a note regarding the specification of the truncation
 #' time (tau), the default tau will be reported if tau was not specified.}
 #' @return \item{RMTL}{RMTL results in two groups, including RMTL of event 1

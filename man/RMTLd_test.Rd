@@ -25,8 +25,6 @@ calculation.
 The default is the minimum of the largest follow-up time of two groups.}
 }
 \value{
-an object of class RMTLd_test.
-
 \item{Note}{a note regarding the specification of the truncation
 time (tau), the default tau will be reported if tau was not specified.}
 
